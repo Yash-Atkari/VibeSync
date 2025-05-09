@@ -36,7 +36,7 @@ body {
 }
 
 .chat-box {
-    height: 450px;
+    height: 380px;
     overflow-y: auto;
     background: rgb(32, 32, 32);
     border-radius: 10px;
@@ -133,27 +133,12 @@ html {
 }
 
 /* Navbar styling */
-.nav-light {
-    background-color: #2d2d2d;
-    padding: 10px 0;
-}
-
 .navbar-brand {
-    color: white !important;
+    color: black !important;
 }
 
 .nav-link {
-    color: white !important;
-}
-
-/* Footer styling */
-footer {
-    background-color: #2d2d2d !important;
-    color: white !important;
-}
-
-footer div {
-    color: white !important;
+    color: black !important;
 }
 
 /* Responsive styles */
