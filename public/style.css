@@ -13,12 +13,6 @@ body {
     left: 0;
 }
 
-.intro {
-    margin-top: 20px;
-    width: 100%;
-    min-height: 10%;
-}
-
 .container {
     height: 100vh;
     display: flex;
@@ -31,8 +25,14 @@ body {
     box-sizing: border-box;
 }
 
+.intro {
+    min-height: 15%;
+    margin-top: 20px;
+    width: 100%;
+}
+
 .chat-box {
-    min-height: 60%;
+    min-height: 65%;
     overflow-y: auto;
     background: rgb(32, 32, 32);
     border-radius: 10px;
