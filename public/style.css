@@ -13,7 +13,14 @@ body {
     left: 0;
 }
 
+.intro {
+    margin-top: 20px;
+    width: 100%;
+    min-height: 20%;
+}
+
 .container {
+    height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -24,19 +31,8 @@ body {
     box-sizing: border-box;
 }
 
-.chat-container {
-    width: 100%;
-    max-width: 800px;
-    background-color: #2d2d2d;
-    padding: 20px;
-    border-radius: 15px;
-    margin: 20px auto;
-    color: white;
-    box-sizing: border-box;
-}
-
 .chat-box {
-    height: 380px;
+    min-height: 60%;
     overflow-y: auto;
     background: rgb(32, 32, 32);
     border-radius: 10px;
@@ -45,6 +41,24 @@ body {
     display: flex;
     flex-direction: column;
     width: 100%;
+    box-sizing: border-box;
+}
+
+.outer-container {
+    min-height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.chat-container {
+    width: 100%;
+    max-width: 800px;
+    background-color: #2d2d2d;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 20px auto;
+    color: white;
     box-sizing: border-box;
 }
 
@@ -105,11 +119,6 @@ form button {
 .intro h2, .intro p {
     color: white;
     text-align: center;
-}
-
-.intro {
-    margin-top: 20px;
-    width: 100%;
 }
 
 .message-wrapper {
