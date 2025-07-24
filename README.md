@@ -26,7 +26,28 @@ Click here to view the deployed project - https://vibesync-ao2c.onrender.com
 
 ## How to Run Locally
 
+Clone the Repository
 ```bash
 git clone https://github.com/Yash-Atkari/VibeSync.git
+cd VibeSync
+```
+
+Install Dependencies
+```bash
 npm install
-nodemon server.js (Make sure you have nodemon installed)
+```
+
+Set Up the .env File
+- Create a .env file in the root directory if it doesn't exist:
+```bash
+touch .env
+```
+- Open .env in a text editor and add your API key like this:
+```bash
+TOGETHER_API_KEY=your_api_key_here
+```
+
+Run the Server
+```bash
+node server.js
+```
