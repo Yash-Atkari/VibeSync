@@ -4,7 +4,7 @@ An API-integrated chatbot. I want to convert it into an AI-powered chatbot that 
 
 ## Live Demo
 
-Click here to view the deployed project - https://vibesync-ao2c.onrender.com
+Click https://vibesync-ao2c.onrender.com to view the deployed project
 
 ## Tech Stack
 
@@ -20,9 +20,9 @@ Click here to view the deployed project - https://vibesync-ao2c.onrender.com
 
 ## Features
 
-- Feature 1 - User Query Handling - Processes user questions through predefined API endpoints. 
-- Feature 2 - Information Retrieval - Fetches data from external APIs to answer user queries.
-- Feature 3 - Basic Response Delivery - Sends back structured or templated responses based on API results.
+- User Query Handling - Processes user questions through predefined API endpoints. 
+- Information Retrieval - Fetches data from external APIs to answer user queries.
+- Basic Response Delivery - Sends back structured or templated responses based on API results.
 
 ## How to Run Locally
 
