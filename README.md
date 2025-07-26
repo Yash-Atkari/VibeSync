@@ -14,9 +14,9 @@ Click https://vibesync-ao2c.onrender.com to view the deployed project
 
 ## Screenshots
 
-<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/e51bd186-e75b-4477-a527-23ea324dc943" />
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/fc079981-e8e9-4709-b0cd-6cbd65ef95c8" />
 
-<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/46ec1c40-7d89-4b39-b73a-4f1475c39dc9" />
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/bf995eaf-f10b-44be-9a19-22c67d624ed5" />
 
 ## Features
 
