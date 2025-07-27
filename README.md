@@ -4,7 +4,7 @@ An API-integrated chatbot. I want to convert it into an AI-powered chatbot that 
 
 ## Live Demo
 
-Click https://vibesync-ao2c.onrender.com to view the deployed project
+[Click here to view the deployed project](https://your-deployment-url.com)
 
 ## Tech Stack
 
