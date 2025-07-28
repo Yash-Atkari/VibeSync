@@ -51,3 +51,8 @@ Run the Server
 ```bash
 node server.js
 ```
+The backend will run on: `http://localhost:xxxx`
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
